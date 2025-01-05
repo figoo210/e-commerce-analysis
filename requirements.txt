@@ -1,0 +1,12 @@
+tabulate
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scipy
+streamlit
+tqdm
+statsmodels
+ipykernel
+nbformat
